@@ -1,7 +1,8 @@
 {
-  "name": "react-boilerplate",
+  "name": "jarkan-dilemma",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://misacorp.github.io/jarkan-dilemma",
   "dependencies": {
     "@material-ui/core": "^1.5.1",
     "eslint": "^4.19.1",
